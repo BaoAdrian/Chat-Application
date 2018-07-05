@@ -1,10 +1,7 @@
 # Chat-Application
 iOS Chat Application developed using Swift 4 in Xcode 9.4.1. Mirrors the characteristics of a generic group chat allowing 
 users to create and register user accounts and connect with others within the same chat.
-Created utilizing Firebase Database authorizations & data manipulation, as well as UI customizations using Chameleon Framework 
-& SVProgressHUD.
-Completed as part of an assignment for a course.
-
+Completed as part of an assignment for a course utilizing Firebase Database authorizations & data manipulations, as well as UI customizations using the Chameleon Framework & SVProgressHUD.
 
 
 
